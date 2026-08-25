@@ -375,5 +375,14 @@
       "Only one of the two starting branches can be fast-forward merged into 'main'. Do not create new branches."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1787662386.544381,
+    "completed_at": 1787662388.107411,
+    "comments": [
+      "Great job fast-forward merging only 'with-sally'!"
+    ],
+    "status": "Completed"
   }
 ]
